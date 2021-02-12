@@ -1,3 +1,6 @@
 <?php
+echo "ola mundo" ;
 
-aiuhaiuwehaih
+echo "<br>" ;
+
+phpinfo();
